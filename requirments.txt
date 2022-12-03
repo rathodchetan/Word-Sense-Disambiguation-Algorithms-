@@ -1,0 +1,6 @@
+nltk: 3.7
+numpy: 1.22.4
+sklearn: 1.1.1
+networkx: 2.8.8
+gensim:  4.2.0
+tqdm:	4.64.0
